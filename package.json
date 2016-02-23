@@ -1,0 +1,24 @@
+{
+  "name": "coindjs",
+  "version": "0.0.1",
+  "description": "Bitcoin full node and library.",
+  "dependencies": {
+    "coindjs-bootstrap": "0.0.1",
+    "coindjs-protocol": "0.0.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "namecoin",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricmoo/coindjs.git"
+  },
+  "author": "Richard Moore <me@ricmoo.com>",
+  "license": "MIT"
+}
